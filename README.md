@@ -40,10 +40,12 @@ The main objective of this project is to develop an interactive ICDS Beneficiary
 
 
 ## Files Included
- - Power BI Dashboard (.pbix)
+ - Raw Dataset
  - Cleaned Dataset
- - Documentation Report
+ - Power BI Dashboard (.pbix)
  - Dashboard Screenshot
+ - Documentation Report
+ 
 
 ## Author
 Uma Maheswari
