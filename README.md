@@ -78,8 +78,5 @@ The main objective of this project is to develop an interactive ICDS Beneficiary
  - The dashboard helps monitor beneficiary coverage, worker availability, and performance trends effectively.
  - It enables better decision-making by identifying shortages, performance gaps, and key improvement areas through interactive visual      insights
 
-## Screenshots
-  ![Dashboard Screenshot](https://drive.google.com/drive/u/0/folders/1GRrPVOLEKPhzglmTjfjPM8TWWttgKt2e)
-
 ## Author
 Uma Maheswari
