@@ -1,10 +1,10 @@
 # Poshan Scheme Coverage & Infrastructure Analysis
 
 ## Project Overview
-This project analyzes the coverage, infrastructure, and beneficiary statistics of the Poshan Scheme using Power BI.
+ - This project analyzes the coverage, infrastructure, and beneficiary statistics of the Poshan Scheme using Power BI.
 -----
 ## Project Objective
-The main objective of this project is to develop an interactive ICDS Beneficiary and Infrastructure Dashboard using Microsoft Excel and Power BI to analyze beneficiary data, monitor infrastructure status, and support effective decision-making in the ICDS program.
+ - The main objective of this project is to develop an interactive ICDS Beneficiary and Infrastructure Dashboard using Microsoft Excel     and Power BI to analyze beneficiary data, monitor infrastructure status, and support effective decision-making in the ICDS program.
 -----
 ## Tools Used
  - Power BI
