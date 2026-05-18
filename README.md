@@ -14,8 +14,8 @@
 
 ## Dataset Information
  - Dataset Source : India Data Portal
- - Number of Records : 28
- - Important Columns used : 
+ - Number of Records : 28000+
+ - Important Columns used :20 
 
 ## Data Cleaning & Transformation
  - Removed null values
@@ -23,6 +23,7 @@
  - Changed data type
  - Removed columns with more than 50% missing values to improve data quality and reporting accuracy
  - Created calculated columns
+ - Created calculated measures
 
 ## Data Modeling
  - Built Calendar Table
@@ -70,7 +71,7 @@
 ## Files Included
  - Raw Dataset
  - Cleaned Dataset
- - Power BI Dashboard (.pbix)
+ - Power BI File (.pbix)
  - Dashboard Screenshot
  - Documentation Report
 
