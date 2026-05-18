@@ -67,6 +67,8 @@
 ## Challenges Faced
  - Missing values in dataset
  - Inconsistent column formats
+ - One of the major challenges faced in this project was handling nearly 50% missing values in th dataset
+ - Data cleaning and preprocessing were performed to ensure better analysis accuracy
    
 ## Files Included
  - Raw Dataset
