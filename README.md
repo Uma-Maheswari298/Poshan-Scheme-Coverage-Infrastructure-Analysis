@@ -64,6 +64,9 @@
  - Eligible beneficiaries increased from 2023 to 2024 but showed a sharp decline in 2026.
  - Proper planning, funding, and maintenance are necessary to improve facilities and service coverage.
 
+## Dashboard Image
+   <img width="920" height="497" alt="Final Dasboard" src="https://github.com/user-attachments/assets/0a25915a-fabc-48de-b941-ee40fcad59f4" />
+
 ## Challenges Faced
  - Missing values in dataset
  - Inconsistent column formats
